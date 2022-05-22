@@ -50,9 +50,9 @@ This project was to encrypt files and be able to decrypt them.
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+:heavy_check_mark: Test Files;\
+:heavy_check_mark: Encrypt Files with Key;\
+:heavy_check_mark: Decrypt Files with Key;
 
 ## :rocket: Technologies ##
 
