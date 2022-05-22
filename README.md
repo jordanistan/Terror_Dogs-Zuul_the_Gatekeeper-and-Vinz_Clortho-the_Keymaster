@@ -1,6 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Terror_Dogs Zuul_the_Gatekeeper And Vinz_Clortho The_Keymaster" />
-  ![Terror_Dogs Zuul_the_Gatekeeper And Vinz_Clortho The_Keymaster](https://64.media.tumblr.com/20a7cac09d01d08336655180f1bf19a5/tumblr_penchgqnlL1vlxp6no1_1280.png "Terror_Dogs Zuul_the_Gatekeeper And Vinz_Clortho The_Keymaster")
+  <img src="./.img/terrordogs.jpeg" alt="Terror_Dogs Zuul_the_Gatekeeper And Vinz_Clortho The_Keymaster" />
 
   &#xa0;
 
