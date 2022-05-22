@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 
-from email import contentmanager
 import os
 from cryptography.fernet import fernet
 
